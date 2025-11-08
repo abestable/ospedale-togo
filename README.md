@@ -87,6 +87,18 @@ Creazione di immagini di sistema per reinstallazioni rapide con strumenti come C
 - Stampanti A4 standard (laser o inkjet) per documentazione clinica e amministrativa
 - UPS/ciabatte filtrate e armadi rack per organizzazione del cablaggio
 
+## Proposta di Assegnazione Task
+
+- Enrico Do: installazione e configurazione del gestionale
+- Franco Leverare & Michele Bensi: installazione sistema operativo sui server e configurazione del server gestionale, del server backup e dello storage (mirror aggiornamenti Debian)
+- Andrea Chesini: inventario e approvvigionamento del materiale mancante, con spedizione in Togo
+- Irene Spoldi: gestione stampanti (etichette Zebra e stampanti A4) e materiali di consumo associati
+- Luca Palini: test end-to-end del sistema prima del deployment
+- Andrea Chesini & Alberto Stabile & Franco Leveraro: Progettazione infrastruttura di rete 
+- Elisa Riceputi & Fabrizio Armani: desiderate un task specifico? Segnalate disponibilità/interessi
+- Andrea Chesini & Alberto Stabile & Irene Spoldi & Luca Palini: Installazione in logo
+- Tutti: supporto da remoto a lungo termine...
+
 ## Prossimi Passi - Todo List
 
 - [ ] Definire e documentare i moduli clinici prioritari da implementare
