@@ -100,7 +100,7 @@ Creazione di immagini di sistema per reinstallazioni rapide con strumenti come C
 - **Tutti**: supporto da remoto a lungo termine...
 
 ## Prossimi Passi - Todo List
-
+- [ ] Definire i task e i responsabili dei task
 - [ ] Definire e documentare i moduli clinici prioritari da implementare
 - [ ] Preparare un ambiente di test in Italia con Debian + Cinnamon e software gestionale
 - [ ] Creare immagini sistema per i client e predisporre script di configurazione automatica
