@@ -45,6 +45,15 @@ Creazione di immagini di sistema per reinstallazioni rapide con strumenti come C
 - Qual è la capacità di banda e stabilità prevista della connessione 4G in Togo?
 - Quali protocolli sanitari e legali locali devono essere integrati nel sistema?
 - È previsto un supporto tecnico internazionale a lungo termine per manutenzione e aggiornamenti. Come gestirlo al meglio?
+- Nel materiale già spedito o da spedire sono inclusi i frutti per le prese ethernet e i cavi necessari per la predisposizione delle prese telematiche?
+
+## Materiale Mancante da Verificare/Acquistare
+- Frutti RJ45 e placche per prese di rete da incasso
+- Matasse di cavo ethernet (Cat6 o superiore) e connettori di terminazione
+- Switch di rete centrali e switch di reparto/locali per la distribuzione
+- Patch panel e patch cord per cablaggio armadi di rete
+- Tastiere e mouse di ricambio per postazioni client
+- Access point o ulteriori dispositivi di rete necessari per copertura Wi-Fi
 
 ## Prossimi Passi - Todo List
 - [ ] Definire e documentare i moduli clinici prioritari da implementare
