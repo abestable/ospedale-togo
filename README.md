@@ -44,7 +44,7 @@ Creazione di immagini di sistema per reinstallazioni rapide con strumenti come C
 - Qual è il livello di competenza IT del personale locale che dovrà gestire il sistema?
 - Qual è la capacità di banda e stabilità prevista della connessione 4G in Togo?
 - Quali protocolli sanitari e legali locali devono essere integrati nel sistema?
-- È previsto un supporto tecnico internazionale a lungo termine per manutenzione e aggiornamenti?
+- È previsto un supporto tecnico internazionale a lungo termine per manutenzione e aggiornamenti. Come gestirlo al meglio?
 
 ## Prossimi Passi - Todo List
 - [ ] Definire e documentare i moduli clinici prioritari da implementare
