@@ -25,6 +25,8 @@ Oltre a OpenMRS, si considerano OpenEMR, Open Hospital e software specifici afri
 
 Il materiale hardware comprende numerosi PC Dell Optiplex, laptop Latitude, server Dell PowerEdge, storage IBM Storwize, stampanti Zebra e monitor Dell. I server PowerEdge sono utilizzati per il server principale e per server secondario dedicato a backup, repository di aggiornamenti e servizi di supporto.
 
+Nel sopralluogo abbiamo verificato che i PowerEdge R730 al momento non dispongono di dischi interni: sarà necessario acquistare unità compatibili, mentre nell'immediato abbiamo installato provvisoriamente dischi meccanici da 4 TB recuperati dall'inventario per poter procedere con i test.
+
 ### Materiale già disponibile (Fattura 191682676 del 21/10/2025)
 
 - 42 PC Dell Optiplex 3020
@@ -57,7 +59,7 @@ La missione sarà alimentata da impianti fotovoltaici con connessione internet v
 
 ## Sistemi Operativi
 
-Si consiglia Debian come sistema operativo principale per server e client, accompagnato dall'ambiente desktop Cinnamon su client per interfaccia simile a Windows. Per i server si suggerisce Linux in modalità server headless o con GUI leggera se necessario.
+Abbiamo deciso di standardizzare su Debian 13 come sistema operativo principale per server e client, accompagnato dall'ambiente desktop Cinnamon su client per interfaccia simile a Windows. Per i server si suggerisce Linux in modalità server headless o con GUI leggera se necessario.
 
 ## Gestione Aggiornamenti
 
