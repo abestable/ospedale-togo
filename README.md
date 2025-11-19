@@ -92,7 +92,7 @@ Creazione di immagini di sistema per reinstallazioni rapide con strumenti come C
 ## Proposta di Assegnazione Task
 
 - **Enrico Do**: installazione e configurazione del gestionale
-- **Franco Leverare**,**Michele Bensi**: installazione sistema operativo sui server e configurazione dei servers e dello storage (mirror aggiornamenti Debian)
+- **Franco Leverare**,**Michele Bensi**: installazione sistema operativo su server e desktop. Configurazione dei servers e dello storage (mirror aggiornamenti Debian)
 - **Andrea Chesini**: inventario e approvvigionamento del materiale mancante, con spedizione in Togo
 - **Irene Spoldi**: gestione stampanti (etichette Zebra e stampanti A4) e materiali di consumo associati
 - **Luca Palini**: test end-to-end del sistema prima del deployment
